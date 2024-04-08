@@ -4,4 +4,4 @@ def execute_function(file, function_name, list):
         return exec(command)
 
 new_list = [24,6,547,2,5,83,3546,7,35,26,2626,215]
-execute_function("../sorting-algorithms/bubble-sort.py","bubblesort",new_list)
+execute_function("../sorting-algorithms/insertion-sort.py","insertion",new_list)
